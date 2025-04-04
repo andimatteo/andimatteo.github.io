@@ -1,25 +1,29 @@
-baseURL = "https://silviafesta2.github.io/"
+baseURL = "https://andimatteo.github.io/"
 languageCode = "en-us"
-title = "Silvia Festa"
+title = "Andrea Di Matteo"
 theme = "anubis2"
 
 [params]
-description = "Computer Engineering Student at Università di Pisa"
+description = "Computer Engineering Student at Scuola Superiore Sant'Anna"
 enableSocial = true           # Enables social icons
 enableThemeSwitcher = true    # Light/Dark toggle
 enableMathGlobally = false    # Enable MathJax globally if needed
 
 [params.Author]
-    name = "Silvia Festa"
+    name = "Andrea Di Matteo"
 
 [[params.social]]
 id = "github"
-url = "https://github.com/silviafesta2"
+url = "https://github.com/andimatteo"
 
 
 [[params.social]]
 id = "email"
-url = "mailto:silviafesta02@gmail.com"
+url = "mailto:andrea.dimatteo@santannapisa.it"
+
+[[params.social]]
+id = "linkedin"
+url = "https://linkedin.com/in/adimatteo"
 
 
 [markup]
