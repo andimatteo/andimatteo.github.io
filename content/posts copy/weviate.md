@@ -1,7 +1,7 @@
 +++
 title = "RAG Platform using Weviate"
 url = "weviate"
-summary = "Intro to Search Engine"
+summary = "Intro to Search Engine - Prof Paolo Ferragina"
 author = "andimatteo"
 draft = false
 # hero_thumb = "/images/trash-collector-robot.jpg"

@@ -9,4 +9,5 @@ draft = false
 # hero_thumb_offset_y = 40
 tags = ["project","ai","llm","santanna"]
 featured = true
+weight = 1
 +++
