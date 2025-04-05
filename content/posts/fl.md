@@ -9,4 +9,7 @@ draft = false
 # hero_thumb_offset_y = 40
 tags = ["project","ai","unipi","thesis"]
 featured = true
+weight = 3
 +++
+
+*work in progress*
