@@ -12,4 +12,5 @@ featured = true
 weight = 2
 +++
 
-*work in progress*
+>[!TASK]
+> *work in progress*

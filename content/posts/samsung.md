@@ -11,4 +11,6 @@ tags = ["project","samsung","unipi"]
 featured = true
 +++
 
-*work in progress*
+>[!TASK]
+> *work in progress*
+

@@ -11,4 +11,6 @@ tags = ["project","web-design","unipi","mini-max"]
 featured = true
 +++
 
-*work in progress*
+>[!TASK]
+> *work in progress*
+
