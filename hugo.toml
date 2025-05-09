@@ -1,17 +1,13 @@
 baseURL = "https://andimatteo.github.io/"
 languageCode = "en-us"
 title = "Andrea Di Matteo"
-theme = "anubis2"
+theme = ["hugo-admonitions","anubis2"]   # ORDINE: prima il componente
 
 [params]
 description = "Computer Engineering Student at Scuola Superiore Sant'Anna"
 enableSocial = true           # Enables social icons
 enableThemeSwitcher = true    # Light/Dark toggle
 enableMathGlobally = false    # Enable MathJax globally if needed
-
-[module]
-  [[module.imports]]
-    path = "github.com/KKKZOZ/hugo-admonitions"
 
 [params.Author]
     name = "Andrea Di Matteo"
@@ -57,3 +53,8 @@ url = "https://linkedin.com/in/adimatteo"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+
+
+[params.hugoAdmonitions]
+  enable = true
