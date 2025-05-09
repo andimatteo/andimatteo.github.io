@@ -9,6 +9,10 @@ enableSocial = true           # Enables social icons
 enableThemeSwitcher = true    # Light/Dark toggle
 enableMathGlobally = false    # Enable MathJax globally if needed
 
+[module]
+  [[module.imports]]
+    path = "github.com/KKKZOZ/hugo-admonitions"
+
 [params.Author]
     name = "Andrea Di Matteo"
 
